@@ -1,0 +1,11 @@
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Hoandoiso\bin\Debug\net8.0\Hoandoiso.deps.json
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Hoandoiso\bin\Debug\net8.0\Hoandoiso.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Hoandoiso\bin\Debug\net8.0\Hoandoiso.pdb
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Hoandoiso\obj\Debug\net8.0\Hoandoiso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Hoandoiso\obj\Debug\net8.0\Hoandoiso.AssemblyInfoInputs.cache
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Hoandoiso\obj\Debug\net8.0\Hoandoiso.AssemblyInfo.cs
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Hoandoiso\obj\Debug\net8.0\Hoandoiso.csproj.CoreCompileInputs.cache
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Hoandoiso\obj\Debug\net8.0\Hoandoiso.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Hoandoiso\obj\Debug\net8.0\refint\Hoandoiso.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Hoandoiso\obj\Debug\net8.0\Hoandoiso.pdb
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Hoandoiso\obj\Debug\net8.0\ref\Hoandoiso.dll

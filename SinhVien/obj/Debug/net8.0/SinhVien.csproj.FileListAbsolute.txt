@@ -1,0 +1,11 @@
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\SinhVien\bin\Debug\net8.0\SinhVien.deps.json
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\SinhVien\bin\Debug\net8.0\SinhVien.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\SinhVien\bin\Debug\net8.0\SinhVien.pdb
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\SinhVien\obj\Debug\net8.0\SinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\SinhVien\obj\Debug\net8.0\SinhVien.AssemblyInfoInputs.cache
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\SinhVien\obj\Debug\net8.0\SinhVien.AssemblyInfo.cs
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\SinhVien\obj\Debug\net8.0\SinhVien.csproj.CoreCompileInputs.cache
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\SinhVien\obj\Debug\net8.0\SinhVien.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\SinhVien\obj\Debug\net8.0\refint\SinhVien.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\SinhVien\obj\Debug\net8.0\SinhVien.pdb
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\SinhVien\obj\Debug\net8.0\ref\SinhVien.dll

@@ -1,0 +1,11 @@
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\HinhChuNhat\bin\Debug\net8.0\HinhChuNhat.deps.json
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\HinhChuNhat\bin\Debug\net8.0\HinhChuNhat.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\HinhChuNhat\bin\Debug\net8.0\HinhChuNhat.pdb
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\HinhChuNhat\obj\Debug\net8.0\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\HinhChuNhat\obj\Debug\net8.0\HinhChuNhat.AssemblyInfoInputs.cache
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\HinhChuNhat\obj\Debug\net8.0\HinhChuNhat.AssemblyInfo.cs
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\HinhChuNhat\obj\Debug\net8.0\HinhChuNhat.csproj.CoreCompileInputs.cache
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\HinhChuNhat\obj\Debug\net8.0\HinhChuNhat.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\HinhChuNhat\obj\Debug\net8.0\refint\HinhChuNhat.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\HinhChuNhat\obj\Debug\net8.0\HinhChuNhat.pdb
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\HinhChuNhat\obj\Debug\net8.0\ref\HinhChuNhat.dll

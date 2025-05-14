@@ -1,0 +1,11 @@
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Phantichso\bin\Debug\net8.0\Phantichso.deps.json
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Phantichso\bin\Debug\net8.0\Phantichso.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Phantichso\bin\Debug\net8.0\Phantichso.pdb
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Phantichso\obj\Debug\net8.0\Phantichso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Phantichso\obj\Debug\net8.0\Phantichso.AssemblyInfoInputs.cache
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Phantichso\obj\Debug\net8.0\Phantichso.AssemblyInfo.cs
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Phantichso\obj\Debug\net8.0\Phantichso.csproj.CoreCompileInputs.cache
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Phantichso\obj\Debug\net8.0\Phantichso.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Phantichso\obj\Debug\net8.0\refint\Phantichso.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Phantichso\obj\Debug\net8.0\Phantichso.pdb
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Phantichso\obj\Debug\net8.0\ref\Phantichso.dll

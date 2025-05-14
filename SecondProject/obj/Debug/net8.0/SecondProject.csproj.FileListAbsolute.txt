@@ -1,0 +1,15 @@
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\bin\Debug\net8.0\SecondProject.exe
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\bin\Debug\net8.0\SecondProject.deps.json
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\bin\Debug\net8.0\SecondProject.runtimeconfig.json
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\bin\Debug\net8.0\SecondProject.dll
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\bin\Debug\net8.0\SecondProject.pdb
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\obj\Debug\net8.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\obj\Debug\net8.0\SecondProject.AssemblyInfoInputs.cache
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\obj\Debug\net8.0\SecondProject.AssemblyInfo.cs
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\obj\Debug\net8.0\SecondProject.csproj.CoreCompileInputs.cache
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\obj\Debug\net8.0\SecondProject.sourcelink.json
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\obj\Debug\net8.0\SecondProject.dll
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\obj\Debug\net8.0\refint\SecondProject.dll
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\obj\Debug\net8.0\SecondProject.pdb
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\obj\Debug\net8.0\SecondProject.genruntimeconfig.cache
+D:\Code_C#\Baitap1_PRN212\BTVN01\SecondProject\obj\Debug\net8.0\ref\SecondProject.dll

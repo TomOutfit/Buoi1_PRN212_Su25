@@ -1,0 +1,19 @@
+/*
+  BTVN02: 
+  1. Tạo lớp HinhChuNhat gồm:
+  Thuộc tính (Properties): ChieuDai, ChieuRong
+  Phương thức (Method):
+  TinhChuVi()
+  TinhDienTich()
+  HienThiThongTin()
+  Trong Main, tạo đối tượng, gán giá trị và in ra chu vi, diện tích
+
+  2. Lớp SinhVien
+     Tạo lớp SinhVien gồm:
+     Thuộc tính: MaSV, TenSV, DiemTB
+     Phương thức:
+     NhapThongTin() – nhập từ bàn phím
+     HienThiThongTin() – in ra thông tin
+     XepLoai() – trả về “Giỏi”, “Khá”, “Trung Bình”, “Yếu” theo điểm
+     Sau đó, tạo danh sách 3 sinh viên và hiển thị xếp loại của từng người.
+*/

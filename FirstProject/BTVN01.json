@@ -1,0 +1,10 @@
+/*
+  BTVN01:
+  1. Viết một hàm HoanDoi(ref int a, ref int b) 
+  để hoán đổi giá trị của hai biến và in kết quả trong Main
+  2. Viết hàm PhanTichSo(int so, out int tram, out int chuc, out int donVi) để tách 
+  một số có 3 chữ số thành hàng trăm, chục, đơn vị.
+  3. Viết hàm 
+  TinhToan(int a, int b, out int tong, out int hieu, out int tich, out double thuong)
+  Sau đó hiển thị tất cả kết quả trong Main
+*/

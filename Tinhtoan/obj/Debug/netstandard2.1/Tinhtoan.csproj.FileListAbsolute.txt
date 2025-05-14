@@ -1,0 +1,9 @@
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Tinhtoan\bin\Debug\netstandard2.1\Tinhtoan.deps.json
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Tinhtoan\bin\Debug\netstandard2.1\Tinhtoan.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Tinhtoan\bin\Debug\netstandard2.1\Tinhtoan.pdb
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Tinhtoan\obj\Debug\netstandard2.1\Tinhtoan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Tinhtoan\obj\Debug\netstandard2.1\Tinhtoan.AssemblyInfoInputs.cache
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Tinhtoan\obj\Debug\netstandard2.1\Tinhtoan.AssemblyInfo.cs
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Tinhtoan\obj\Debug\netstandard2.1\Tinhtoan.csproj.CoreCompileInputs.cache
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Tinhtoan\obj\Debug\netstandard2.1\Tinhtoan.dll
+D:\Code_C#\BTVN1_PRN212_SU25\Buoi1_PRN212_Su25\Tinhtoan\obj\Debug\netstandard2.1\Tinhtoan.pdb
